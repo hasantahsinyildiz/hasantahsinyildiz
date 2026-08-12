@@ -9,8 +9,7 @@
 
   <p>🔭 <b>Laravel</b> MVC mimarisi ve veritabanı yönetimleri üzerinde çalışmalar yapıyorum.</p>
   <p>🌐 Yerel işletmeler için özel web tasarımları hazırlayıp yayına alıyorum.</p>
-  <p>🚀 <b>Öne Çıkan Projem:</b> <a href="https://sakli-cennet-sucikti-web.netlify.app/">Saklı Cennet Suçıktı</a></p>
-
+  
   <br />
 
   <h3>Languages and Tools:</h3>
