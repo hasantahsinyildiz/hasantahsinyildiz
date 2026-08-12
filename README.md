@@ -1,29 +1,32 @@
 <div align="center">
   
-  <h1>Hi 👋, Ben Hasan Tahsin YILDIZ!</h1>
-  <h3>Bilişim Teknolojileri alanından mezun bir Web Geliştiricisiyim.</h3>
+  <h1>Hi 👋, Ben Hasan Tahsin!</h1>
+  <h3>Özellikle PHP ve Laravel ekosistemi üzerinde çalışan bir Web Geliştiricisiyim.</h3>
 
-  <p>Web geliştirme dünyasında yeni şeyler üretmeyi ve kendimi sürekli geliştirmeyi seviyorum.</p>
+  <p>Şu anda MVC mimarisi ve veritabanı yönetimleri üzerine yoğunlaşıyor, yerel işletmeler için modern web projeleri üretiyorum.</p>
   
   <br />
 
-  <p>🔭 <b>Laravel</b> MVC mimarisi ve veritabanı yönetimleri üzerinde çalışmalar yapıyorum.</p>
-  <p>🌐 Yerel işletmeler için özel web tasarımları hazırlayıp yayına alıyorum.</p>
-  
-  <br />
-
-  <h3>Languages and Tools:</h3>
-  <p>
-    <img src="[https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white](https://www.w3schools.com/php/default.asp)" alt="PHP" />
-    <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-    <br />
-    <img src="https://img.shields.io/badge/Laragon-000000?style=for-the-badge&logo=linux&logoColor=white" alt="Laragon" />
-    <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Cursor" />
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-    <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" />
+  <h3 align="center">Languages and Tools:</h3>
+  <p align="center" style="text-align:center;">
+    <a href="https://www.php.net/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
+    </a>
+    <a href="https://laravel.com/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="laravel" width="40" height="40"/>
+    </a>
+    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
+    </a>
+    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+    </a>
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+    </a>
   </p>
 
   <br />
