@@ -3,10 +3,34 @@
   <h1>Hi 👋, Ben Hasan Tahsin!</h1>
   <h3>Özellikle PHP ve Laravel ekosistemi üzerinde çalışan bir Web Geliştiricisiyim.</h3>
 
-  <p>Şu anda MVC mimarisi ve veritabanı yönetimleri üzerine yoğunlaşıyor, yerel işletmeler için modern web projeleri üretiyorum.</p>
+  <p>
+    Temiz kod yazmayı, yeni teknolojileri keşfetmeyi ve modern standartlara uygun, ölçeklenebilir projeler geliştirmeyi seviyorum.
+  </p>
   
   <br />
+</div>
 
+<div align="left">
+  <h3>👨‍💻 Hakkımda Kısa Kısa...</h3>
+  <ul>
+    <li>🔭 Şu anda aktif olarak <b>PHP, Laravel (MVC mimarisi)</b> ve veritabanı yönetimleri üzerine derinleşiyorum.</li>
+    <li>🌱 Sadece kod yazmakla kalmıyor, geliştirme süreçlerimde üretkenliğimi artırmak için <b>yapay zeka destekli araçları (Cursor IDE vb.)</b> aktif olarak kullanıyorum.</li>
+    <li>💻 Geliştirme ortamı olarak genellikle <b>Laragon</b> tercih ediyor, projelerimi yerel işletmelerin modern web ihtiyaçlarına cevap verecek şekilde kurguluyorum.</li>
+    <li>🎮 Kodlamadan arta kalan zamanlarımda zihnimi boşaltmak için <b>CS2</b> ve <b>Valorant</b> gibi rekabetçi oyunlar oynamayı seviyorum.</li>
+    <li>📫 Bana ulaşmak istersen: <br><br>
+  <a href="mailto:hasan10tahsin@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/hasan-tahsin-yildiz/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</li>
+  </ul>
+</div>
+
+<br />
+
+<div align="center">
   <h3 align="center">Languages and Tools:</h3>
   <p align="center" style="text-align:center;">
     <a href="https://www.php.net/" target="_blank" rel="noreferrer">
